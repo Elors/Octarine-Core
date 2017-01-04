@@ -1,11 +1,14 @@
 ---
 layout: post
 title: 配置Shadowsocks
-tags: 自由
+tags: 技巧
 date: 2016-11-08 22:56:50
 ---
 
 ### 配置VPS
+
+<!-- more -->
+
 1. 创建完实例后，打开终端进入到私钥所在文件夹。
 
 2. 更改文件权限
