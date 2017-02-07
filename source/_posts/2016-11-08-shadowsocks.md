@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 配置Shadowsocks
-tags: 技巧
 date: 2016-11-08 22:56:50
+tags: 姿势水平
 ---
 
 ### 配置VPS
